@@ -242,3 +242,73 @@ User after update: Array
 )
 
 Users data saved successfully
+=== UPDATE.PHP CALLED ===
+Time: 2025-10-05 08:41:33
+Raw Input: {"id":"68e20a0211ed9","name":"Shanta Islam","email":"ShantoIslam@gmail.com","phone":"01642227080","created_at":"2025-10-05 06:02:42"}
+Decoded Data: stdClass Object
+(
+    [id] => 68e20a0211ed9
+    [name] => Shanta Islam
+    [email] => ShantoIslam@gmail.com
+    [phone] => 01642227080
+    [created_at] => 2025-10-05 06:02:42
+)
+
+Total users in database: 6
+Looking for user ID: 68e20a0211ed9
+Found user: Array
+(
+    [id] => 68e20a0211ed9
+    [name] => Shanta ISlam
+    [email] => ShantoIslam@gmail.com
+    [phone] => 01642227080
+    [created_at] => 2025-10-05 06:02:42
+)
+
+User after update: Array
+(
+    [id] => 68e20a0211ed9
+    [name] => Shanta Islam
+    [email] => ShantoIslam@gmail.com
+    [phone] => 01642227080
+    [created_at] => 2025-10-05 06:02:42
+    [updated_at] => 2025-10-05 08:41:33
+)
+
+Users data saved successfully
+=== UPDATE.PHP CALLED ===
+Time: 2025-10-05 09:24:22
+Raw Input: {"id":"68e20a0211ed9","name":"Shanta Islam","email":"Shantoislam@gmail.com","phone":"01642227080","created_at":"2025-10-05 06:02:42","updated_at":"2025-10-05 08:41:33"}
+Decoded Data: stdClass Object
+(
+    [id] => 68e20a0211ed9
+    [name] => Shanta Islam
+    [email] => Shantoislam@gmail.com
+    [phone] => 01642227080
+    [created_at] => 2025-10-05 06:02:42
+    [updated_at] => 2025-10-05 08:41:33
+)
+
+Total users in database: 6
+Looking for user ID: 68e20a0211ed9
+Found user: Array
+(
+    [id] => 68e20a0211ed9
+    [name] => Shanta Islam
+    [email] => ShantoIslam@gmail.com
+    [phone] => 01642227080
+    [created_at] => 2025-10-05 06:02:42
+    [updated_at] => 2025-10-05 08:41:33
+)
+
+User after update: Array
+(
+    [id] => 68e20a0211ed9
+    [name] => Shanta Islam
+    [email] => Shantoislam@gmail.com
+    [phone] => 01642227080
+    [created_at] => 2025-10-05 06:02:42
+    [updated_at] => 2025-10-05 09:24:22
+)
+
+Users data saved successfully
