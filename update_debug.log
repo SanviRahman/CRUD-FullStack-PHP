@@ -590,3 +590,60 @@ Decoded Data: Array
 
 Total users in database: 8
 Looking for user ID: 68e3b1d0785d3
+=== UPDATE.PHP CALLED ===
+Time: 2025-10-06 12:20:08
+Raw Input: {"id":"68e3b3ed8b1df","name":"Amir Hamza shuvo","email":"amirhamza@gmail.com","phone":"01732175465","created_at":"2025-10-06 12:19:57"}
+Decoded Data: Array
+(
+    [id] => 68e3b3ed8b1df
+    [name] => Amir Hamza shuvo
+    [email] => amirhamza@gmail.com
+    [phone] => 01732175465
+    [created_at] => 2025-10-06 12:19:57
+)
+
+Total users in database: 8
+Looking for user ID: 68e3b3ed8b1df
+=== UPDATE.PHP CALLED ===
+Time: 2025-10-06 12:34:52
+Raw Input: {"id":"68e37d7d4c874","name":"Oboni Islam Shanta","email":"oboniIslam@gmai.com","phone":"01602096355","created_at":"2025-10-06 08:27:41"}
+Decoded Data: Array
+(
+    [id] => 68e37d7d4c874
+    [name] => Oboni Islam Shanta
+    [email] => oboniIslam@gmai.com
+    [phone] => 01602096355
+    [created_at] => 2025-10-06 08:27:41
+)
+
+Total users in database: 7
+Looking for user ID: 68e37d7d4c874
+=== UPDATE.PHP CALLED ===
+Time: 2025-10-06 12:35:04
+Raw Input: {"id":"68e37d7d4c874","name":"Oboni Islam","email":"oboniIslam@gmai.com","phone":"01602096355","created_at":"2025-10-06 08:27:41","updated_at":"2025-10-06 12:34:52"}
+Decoded Data: Array
+(
+    [id] => 68e37d7d4c874
+    [name] => Oboni Islam
+    [email] => oboniIslam@gmai.com
+    [phone] => 01602096355
+    [created_at] => 2025-10-06 08:27:41
+    [updated_at] => 2025-10-06 12:34:52
+)
+
+Total users in database: 7
+Looking for user ID: 68e37d7d4c874
+=== UPDATE.PHP CALLED ===
+Time: 2025-10-06 12:46:48
+Raw Input: {"id":"68e3ba2e08979","name":"Amir Hamza shuvo","email":"amirhamza@gmail.com","phone":"01654295631","created_at":"2025-10-06 12:46:38"}
+Decoded Data: Array
+(
+    [id] => 68e3ba2e08979
+    [name] => Amir Hamza shuvo
+    [email] => amirhamza@gmail.com
+    [phone] => 01654295631
+    [created_at] => 2025-10-06 12:46:38
+)
+
+Total users in database: 8
+Looking for user ID: 68e3ba2e08979
