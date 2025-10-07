@@ -647,3 +647,33 @@ Decoded Data: Array
 
 Total users in database: 8
 Looking for user ID: 68e3ba2e08979
+=== UPDATE.PHP CALLED ===
+Time: 2025-10-07 04:16:45
+Raw Input: {"id":"68e37d7d4c874","name":"Oboni Islam Shanta","email":"oboniIslam@gmai.com","phone":"01602096355","created_at":"2025-10-06 08:27:41","updated_at":"2025-10-06 12:35:04"}
+Decoded Data: Array
+(
+    [id] => 68e37d7d4c874
+    [name] => Oboni Islam Shanta
+    [email] => oboniIslam@gmai.com
+    [phone] => 01602096355
+    [created_at] => 2025-10-06 08:27:41
+    [updated_at] => 2025-10-06 12:35:04
+)
+
+Total users in database: 7
+Looking for user ID: 68e37d7d4c874
+=== UPDATE.PHP CALLED ===
+Time: 2025-10-07 04:16:57
+Raw Input: {"id":"68e37d7d4c874","name":"Oboni Islam","email":"oboniIslam@gmai.com","phone":"01602096355","created_at":"2025-10-06 08:27:41","updated_at":"2025-10-07 04:16:45"}
+Decoded Data: Array
+(
+    [id] => 68e37d7d4c874
+    [name] => Oboni Islam
+    [email] => oboniIslam@gmai.com
+    [phone] => 01602096355
+    [created_at] => 2025-10-06 08:27:41
+    [updated_at] => 2025-10-07 04:16:45
+)
+
+Total users in database: 7
+Looking for user ID: 68e37d7d4c874

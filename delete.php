@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] !== 'DELETE') {
 
 // Read JSON Input
 $input = file_get_contents("php://input");
-$data = json_decode($input, true); // associative array হিসেবে পড়া হচ্ছে
+$data = json_decode($input, true);
 
 if (empty($data['id'])) {
     http_response_code(400);
