@@ -677,3 +677,17 @@ Decoded Data: Array
 
 Total users in database: 7
 Looking for user ID: 68e37d7d4c874
+=== UPDATE.PHP CALLED ===
+Time: 2025-10-07 06:56:51
+Raw Input: {"id":"68e49572d1988","name":"Amir Hamza shuvo","email":"amirhamza@gmail.com","phone":"01654295631","created_at":"2025-10-07 04:22:10"}
+Decoded Data: Array
+(
+    [id] => 68e49572d1988
+    [name] => Amir Hamza shuvo
+    [email] => amirhamza@gmail.com
+    [phone] => 01654295631
+    [created_at] => 2025-10-07 04:22:10
+)
+
+Total users in database: 8
+Looking for user ID: 68e49572d1988
