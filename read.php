@@ -23,7 +23,7 @@ if (file_exists($users_file)) {
         $users = [];
     }
 
-    // ✅ Angular expects a plain array — not wrapped in "data"
+ 
     http_response_code(200);
     echo json_encode($users, JSON_PRETTY_PRINT);
 } else {
